@@ -38,4 +38,4 @@ This project is currently unlicensed.
 ## Screenshots
 
 ![Screenshot](screenshot.png)
-![Screenshot](screenshot_1.png)
+![Screenshot](screenshot_2.png)
